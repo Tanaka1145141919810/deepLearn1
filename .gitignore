@@ -1,5 +1,4 @@
 #ToDo
-.gitignore
 dataset/
 resnet50.pth
 fcn_resnet50_coco.pth
