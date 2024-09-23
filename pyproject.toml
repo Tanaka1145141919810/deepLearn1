@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "mypytorch"
+version = "0.1.0"
+description = "这是一个简单的深度学习的学习过程"
+authors = ["小明 <114514@1919810.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+numpy  = "^2.0"
+torch = "^2.4.1"
+torchvision = "^0.19.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
