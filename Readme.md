@@ -11,7 +11,7 @@
 #### Unet
 ### DRIVE
 + 其文件的结构如下:
-'''c
+
 Drive_dataset
     --training
         --1st_manual
@@ -20,7 +20,7 @@ Drive_dataset
     --test
         --images
         --mask
-'''
+
 其中1st_manual中的图片如下图：
 
 <img src= "mypytorch/Unet/Drive_dataset/training/1st_manual/21_manual1.gif">
