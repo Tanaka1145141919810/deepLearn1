@@ -10,6 +10,7 @@ python = "^3.12"
 numpy  = "^2.0"
 torch = "^2.4.1"
 torchvision = "^0.19.1"
+opencv-python = "^4.10.0.84"
 
 
 [build-system]

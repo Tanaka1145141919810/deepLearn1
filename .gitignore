@@ -2,3 +2,4 @@
 dataset/
 resnet50.pth
 fcn_resnet50_coco.pth
+mypytorch/U2Net/dataset/
